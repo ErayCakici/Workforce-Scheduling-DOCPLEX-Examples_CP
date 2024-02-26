@@ -1,0 +1,6 @@
+pandas
+numpy
+openpyxl
+matplotlib
+cplex==22.1.1.0
+docplex==2.25.236
