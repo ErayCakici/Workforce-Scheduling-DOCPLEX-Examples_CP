@@ -13,3 +13,5 @@ Problems addressed are:
 - [Employee scheduling with sequence dependent setup times (based on task types)](https://github.com/ErayCakici/Test__Workforce-Scheduling-DOCPLEX-Examples_CP/blob/main/04_SeqDep.ipynb)
 - [Employee scheduling with breaks](https://github.com/ErayCakici/Test__Workforce-Scheduling-DOCPLEX-Examples_CP/blob/main/05_Breaks.ipynb)
 - [Employee scheduling with allowed preemption](https://github.com/ErayCakici/Test__Workforce-Scheduling-DOCPLEX-Examples_CP/blob/main/06_Preemption.ipynb)
+
+This repository has been developed by [Guglielmo Sanchini](https://github.com/guglielmosanchini) and Eray Cakici.
