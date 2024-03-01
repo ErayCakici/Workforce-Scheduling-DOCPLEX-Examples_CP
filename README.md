@@ -1,4 +1,4 @@
-# Test__Workforce-Scheduling-DOCPLEX-Examples_CP
+# Workforce-Scheduling-DOCPLEX-Examples_CP
 
 This repository provides constraint programming formulations for workforce (employee) scheduling problems. Employees can also be viewed as machines, and each of these problems can represent different instances of parallel machine scheduling. It is aimed to have special cases which are not already addressed in [machine scheduling examples repository](https://github.com/ErayCakici/Machine-Scheduling-DOCPLEX-Examples_CP) and not available explicitly on the Internet.
 
